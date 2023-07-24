@@ -1,0 +1,10 @@
+package com.spring.pet.service;
+
+import com.spring.pet.dto.MemberDto;
+
+public interface MemberService {
+	
+	//회원가입
+	public void register(MemberDto dto) throws Exception;
+
+}

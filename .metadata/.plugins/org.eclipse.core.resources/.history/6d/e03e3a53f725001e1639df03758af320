@@ -1,0 +1,5 @@
+package com.spring.pet.service;
+
+public class MemberServiceImpl {
+
+}

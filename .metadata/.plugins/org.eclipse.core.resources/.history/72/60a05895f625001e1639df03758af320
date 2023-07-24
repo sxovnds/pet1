@@ -1,0 +1,5 @@
+package com.spring.pet.dto;
+
+public class MemberDto {
+
+}

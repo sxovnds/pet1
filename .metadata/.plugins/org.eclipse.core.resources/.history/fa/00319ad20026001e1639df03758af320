@@ -1,0 +1,10 @@
+package com.spring.pet.dao;
+
+import com.spring.pet.dto.MemberDto;
+
+public interface MemberDAO {
+	
+	// 회원가입
+	public void register(MemberDto dto) throws Exception;
+
+}

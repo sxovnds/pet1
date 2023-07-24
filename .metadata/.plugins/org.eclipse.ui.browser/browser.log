@@ -1,0 +1,10 @@
+
+5월 30, 2023 14:13:25.47 NEW SESSION
+5월 30, 2023 14:13:25.48 [17472:1772:0530/141324.912:ERROR:cache_util_win.cc(20)] Unable to move the cache: 액세스가 거부되었습니다. (0x5)
+5월 30, 2023 14:13:25.116 [17472:2404:0530/141325.001:ERROR:disk_cache.cc(205)] Unable to create cache
+5월 30, 2023 14:13:25.179 [17472:2404:0530/141325.001:ERROR:gpu_disk_cache.cc(673)] Gpu Cache Creation failed: -2
+5월 30, 2023 14:13:26.248 기존 브라우저 세션에서 여는 중입니다.
+
+7월 20, 2023 16:30:53.110 NEW SESSION
+7월 20, 2023 16:30:53.110 [11304:13224:0720/163053.058:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+7월 20, 2023 16:37:27.468 [12804:14816:0720/163727.466:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 

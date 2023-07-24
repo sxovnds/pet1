@@ -1,0 +1,5 @@
+package com.spring.pet.dao;
+
+public interface MemberDAO {
+
+}
